@@ -1,4 +1,4 @@
-# SLAM-map-navigation-
+# SLAM-map-navigation 
 ## Using SLAM map to launch the navigation -  Task 5 for track AI at Smart-Methods summer training
 
 ### Steps 
@@ -24,7 +24,7 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 5. Move the robot back and forth a bit to collect the surrounding environment information and narrow down the estimated location of the TurtleBot3 on the map which is displayed with tiny green arrows.
 6. Terminate the keyboard teleoperation node by entering Ctrl + C
 
--Set Navigation Goal
+- Set Navigation Goal
 1. Click the 2D Nav Goal button in the RViz menu.
 2. Click on the map to set the destination of the robot and drag the green arrow toward the direction where the robot will be facing.
 
@@ -32,4 +32,5 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ![navigation](Task4.PNG)
 </br>
 **Video**
-![navigation](AI-Task4.mp4)
+</br>
+![Vid](AI-Task4.mp4)
